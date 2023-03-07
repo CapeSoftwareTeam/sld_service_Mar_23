@@ -1,5 +1,6 @@
-CREATE DATABASE lv_safety_verification;
-use lv_safety_verification;
+CREATE DATABASE prodcapeelectricdb;
+use prodcapeelectricdb;
+
 
 
 -------->	SLD Diagram  <----------
